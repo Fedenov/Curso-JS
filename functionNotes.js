@@ -1,7 +1,10 @@
-var myArray = ["happy", "blue", "easy", "waste"]
+var myArray = ["happy", "blue", "easy", "waste"];
 
-var removedLast = myArray.pop()
+var removedLast = myArray.pop();
 
-var removeFirst = myArray.shift()
+var removeFirst = myArray.shift();
 
-var addFirst = myArray.unshift(["Lucky",23]) 
+var addFirst = myArray.unshift(["Lucky",23]);
+
+//document.write('hello');
+console.log("yes");
